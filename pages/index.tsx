@@ -19,8 +19,8 @@ export default function Home() {
         <h1 className={styles.title}>
           J
         </h1>
-        <Countdown targetDate={new Date('2023-2-14 00:00:00')} />
-        <Countdown targetDate={new Date('2023-3-6 00:00:00')} />
+        <Countdown targetDate={new Date('02/14/2023 00:00:00')} />
+        <Countdown targetDate={new Date('03/06/2023 00:00:00')} />
         <p className={styles.description}>
           Coming Soon
         </p>
