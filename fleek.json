@@ -1,0 +1,6 @@
+{
+  "id": "cldus87h40004jj08dd0mzfhz",
+  "name": "j-presents",
+  "distDir": "out",
+  "buildCommand": "npm run build"
+}
