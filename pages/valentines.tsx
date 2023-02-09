@@ -43,7 +43,7 @@ export default function Valentines() {
         <p className={styles.description}>
         Por todas estas cosas y muchas otras que no me entran en esta pagina para mantener el estilo de la misma, es que que no dejo de pensar en vos.
         Y aunque este lejos quiero que nos sientamos cerca. Que estas fotos nos recuerden que somos mas juntos pero aunque estemos separados, no estamos tan lejos.
-        Y como vamos a estarlo si al final la J esta al lado de la I. 
+        Y como no vamos a estarlo si al final la J esta al lado de la I. 
         </p>
         <Image  src="/valentines-3.jpeg" alt="Valentines" width={300} height={300} className={styles.padded} />
         <p className={styles.description}>
