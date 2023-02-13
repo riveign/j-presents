@@ -47,7 +47,7 @@ export default function Valentines() {
         </p>
         <Image  src="/valentines-3.jpeg" alt="Valentines" width={300} height={300} className={styles.padded} />
         <p className={styles.description}>
-        Shh no te lo digas a nadie pero... te amo. Ahh y tambien te dejo esta pista.
+        Shh no se lo digas a nadie pero... te amo (O gritaselo a todo el mundo). Ahh y tambien te dejo esta pista.
         </p>
         <Image  src="/valentines-4.png" alt="Valentines" width={150} height={150} className={styles.padded} />
       </main>

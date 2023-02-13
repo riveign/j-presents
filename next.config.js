@@ -2,8 +2,10 @@
 const nextConfig = {
   reactStrictMode: true,
   images: {
-    unoptimized: true
-  }
+    unoptimized: true,
+  },
+  trailingSlash: true,
+  assetPrefix: './',
 }
 
 module.exports = nextConfig
