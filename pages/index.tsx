@@ -20,10 +20,7 @@ export default function Home() {
           J
         </h1>
         <Countdown targetDate={new Date('02/14/2023 00:00:00')} pagePath="/valentines" linkText="Capitulo 1" />
-        <Countdown targetDate={new Date('03/06/2023 00:00:00')} pagePath="/birthday" linkText="-"/>
-        <p className={styles.description}>
-          Coming Soon
-        </p>
+        <Countdown targetDate={new Date('03/06/2023 00:00:00')} pagePath="/birthday" linkText="Capitulo 2"/>
       </main>
     </>
   )
